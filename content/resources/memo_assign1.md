@@ -4,6 +4,8 @@ description: First memo assignment.
 file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/bfd05da16aeb0740ec0966ed6dfcbed9_memo_assign1.pdf
 file_size: 92828
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
