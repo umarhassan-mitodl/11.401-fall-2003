@@ -5,8 +5,6 @@ description: 'This section provides the course assignments. In addition to the w
   The written requirement for the course consists of three memos each focused on one
   of the major sections of the course: Setting the Framework; Housing and Community
   Development; Economic Development, Work and Jobs.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
